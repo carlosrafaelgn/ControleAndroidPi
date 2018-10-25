@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Controle UDP</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="ip">IP</string>
+    <string name="porta">Porta</string>
+    <string name="ok">OK</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
